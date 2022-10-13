@@ -1,0 +1,3 @@
+[submodule "tests/check404"]
+	path = tests/check404
+	url = https://github.com/ECM404/check404.git
